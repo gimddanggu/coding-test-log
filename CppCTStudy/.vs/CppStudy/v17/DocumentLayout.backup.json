@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\Iot-cpp-2025\\CppStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFCD61E-F47F-49C2-9412-690DFCE4207D}|codingTest\\codingTest.vcxproj|C:\\Source\\Iot-cpp-2025\\CppStudy\\codingTest\\BOJ 15552.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CFCD61E-F47F-49C2-9412-690DFCE4207D}|codingTest\\codingTest.vcxproj|solutionrelative:codingTest\\BOJ 15552.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974E6DE4-1256-4837-A447-0850A1AE7F67}|ct001\\ct001.vcxproj|C:\\Source\\Iot-cpp-2025\\CppStudy\\ct001\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{974E6DE4-1256-4837-A447-0850A1AE7F67}|ct001\\ct001.vcxproj|solutionrelative:ct001\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BOJ 15552.cpp",
+              "DocumentMoniker": "C:\\Source\\Iot-cpp-2025\\CppStudy\\codingTest\\BOJ 15552.cpp",
+              "RelativeDocumentMoniker": "codingTest\\BOJ 15552.cpp",
+              "ToolTip": "C:\\Source\\Iot-cpp-2025\\CppStudy\\codingTest\\BOJ 15552.cpp",
+              "RelativeToolTip": "codingTest\\BOJ 15552.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T08:21:16.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\Source\\Iot-cpp-2025\\CppStudy\\ct001\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "ct001\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\Source\\Iot-cpp-2025\\CppStudy\\ct001\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "ct001\\\uC18C\uC2A4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T07:10:15.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
