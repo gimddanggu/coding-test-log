@@ -1,4 +1,5 @@
 #include <iostream>
+#include <tuple>
 using namespace std;
 
 class Code {
@@ -19,11 +20,19 @@ int main() {
 
     cin >> name >> num;
     
-    Code c1;
-    Code c2(name, num);
+    // class
+    // Code c1;
+    // Code c2(name, num);
 
-    cout << "product " << c1.num << " is " << c1.name << "\n";
-    cout << "product " << c2.num << " is " << c2.name;
+    // cout << "product " << c1.num << " is " << c1.name << "\n";
+    // cout << "product " << c2.num << " is " << c2.name;
+
+    // tuple
+    tuple<string, int> t1 = make_tuple("codetree", 50);
+    tuple<string, int> t2 = make_tuple(name, num);
+
+    cout << "product " << get<1>(t1) << " is " << get<0>(t1) << "\n";
+    cout << "product " << get<1>(t2) << " is " << get<0>(t2);
 
     return 0;
 }
